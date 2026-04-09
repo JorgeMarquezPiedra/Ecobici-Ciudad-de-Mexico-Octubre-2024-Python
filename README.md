@@ -1,6 +1,6 @@
 # Ecobici-Ciudad-de-Mexico-Octubre-2024-Python
 
-**Lenguaje: R**
+**Lenguaje: Python**
 
 **Sistema de Información Geográfica: QGIS**
 
